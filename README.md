@@ -254,6 +254,7 @@ For issues, questions, or contributions:
 3. Test with simple applications first
 4. Ensure proper administrator privileges
 
+contact me --priyanshu345kumar@gmail.com
 ---
 
 **⚠️ Important Security Note**: AppLock is designed as a convenience tool and should not be relied upon as the sole security measure for sensitive applications. It can be bypassed by users with sufficient technical knowledge and administrator privileges.
